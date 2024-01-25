@@ -1,4 +1,4 @@
 # First-Repository
 This is my first git project
 <br>
-Author - Debabrata Mahanta
+Author - Debabrata (From Odish)
